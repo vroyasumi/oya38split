@@ -521,14 +521,680 @@ F 3 "" H 8475 3075 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D?
+L Device:D_Small D20
 U 1 1 614DA44F
 P 8050 2600
-F 0 "D?" V 8096 2532 50  0000 R CNN
+F 0 "D20" V 8096 2532 50  0000 R CNN
 F 1 "D_Small" V 8005 2532 50  0000 R CNN
 F 2 "" V 8050 2600 50  0001 C CNN
 F 3 "~" V 8050 2600 50  0001 C CNN
 	1    8050 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D25
+U 1 1 614DCBBE
+P 8550 2600
+F 0 "D25" V 8596 2532 50  0000 R CNN
+F 1 "D_Small" V 8505 2532 50  0000 R CNN
+F 2 "" V 8550 2600 50  0001 C CNN
+F 3 "~" V 8550 2600 50  0001 C CNN
+	1    8550 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D30
+U 1 1 614DD2F0
+P 9050 2600
+F 0 "D30" V 9096 2532 50  0000 R CNN
+F 1 "D_Small" V 9005 2532 50  0000 R CNN
+F 2 "" V 9050 2600 50  0001 C CNN
+F 3 "~" V 9050 2600 50  0001 C CNN
+	1    9050 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D35
+U 1 1 614DD8CE
+P 9550 2600
+F 0 "D35" V 9596 2532 50  0000 R CNN
+F 1 "D_Small" V 9505 2532 50  0000 R CNN
+F 2 "" V 9550 2600 50  0001 C CNN
+F 3 "~" V 9550 2600 50  0001 C CNN
+	1    9550 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D39
+U 1 1 614DDDA3
+P 10050 2600
+F 0 "D39" V 10096 2532 50  0000 R CNN
+F 1 "D_Small" V 10005 2532 50  0000 R CNN
+F 2 "" V 10050 2600 50  0001 C CNN
+F 3 "~" V 10050 2600 50  0001 C CNN
+	1    10050 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D1
+U 1 1 614DE412
+P 5550 3350
+F 0 "D1" V 5596 3282 50  0000 R CNN
+F 1 "D_Small" V 5505 3282 50  0000 R CNN
+F 2 "" V 5550 3350 50  0001 C CNN
+F 3 "~" V 5550 3350 50  0001 C CNN
+	1    5550 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D2
+U 1 1 614DED1A
+P 6050 3350
+F 0 "D2" V 6096 3282 50  0000 R CNN
+F 1 "D_Small" V 6005 3282 50  0000 R CNN
+F 2 "" V 6050 3350 50  0001 C CNN
+F 3 "~" V 6050 3350 50  0001 C CNN
+	1    6050 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D3
+U 1 1 614DF1F9
+P 6550 3350
+F 0 "D3" V 6596 3282 50  0000 R CNN
+F 1 "D_Small" V 6505 3282 50  0000 R CNN
+F 2 "" V 6550 3350 50  0001 C CNN
+F 3 "~" V 6550 3350 50  0001 C CNN
+	1    6550 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D4
+U 1 1 614DF854
+P 7050 3350
+F 0 "D4" V 7096 3282 50  0000 R CNN
+F 1 "D_Small" V 7005 3282 50  0000 R CNN
+F 2 "" V 7050 3350 50  0001 C CNN
+F 3 "~" V 7050 3350 50  0001 C CNN
+	1    7050 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D5
+U 1 1 614DFED2
+P 7550 3350
+F 0 "D5" V 7596 3282 50  0000 R CNN
+F 1 "D_Small" V 7505 3282 50  0000 R CNN
+F 2 "" V 7550 3350 50  0001 C CNN
+F 3 "~" V 7550 3350 50  0001 C CNN
+	1    7550 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D6
+U 1 1 614E5D06
+P 8050 3350
+F 0 "D6" V 8096 3282 50  0000 R CNN
+F 1 "D_Small" V 8005 3282 50  0000 R CNN
+F 2 "" V 8050 3350 50  0001 C CNN
+F 3 "~" V 8050 3350 50  0001 C CNN
+	1    8050 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D7
+U 1 1 614E63B6
+P 8550 3350
+F 0 "D7" V 8596 3282 50  0000 R CNN
+F 1 "D_Small" V 8505 3282 50  0000 R CNN
+F 2 "" V 8550 3350 50  0001 C CNN
+F 3 "~" V 8550 3350 50  0001 C CNN
+	1    8550 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D8
+U 1 1 614E6976
+P 9050 3350
+F 0 "D8" V 9096 3282 50  0000 R CNN
+F 1 "D_Small" V 9005 3282 50  0000 R CNN
+F 2 "" V 9050 3350 50  0001 C CNN
+F 3 "~" V 9050 3350 50  0001 C CNN
+	1    9050 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D9
+U 1 1 614E7026
+P 9550 3350
+F 0 "D9" V 9596 3282 50  0000 R CNN
+F 1 "D_Small" V 9505 3282 50  0000 R CNN
+F 2 "" V 9550 3350 50  0001 C CNN
+F 3 "~" V 9550 3350 50  0001 C CNN
+	1    9550 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D10
+U 1 1 614E74B5
+P 10050 3350
+F 0 "D10" V 10096 3282 50  0000 R CNN
+F 1 "D_Small" V 10005 3282 50  0000 R CNN
+F 2 "" V 10050 3350 50  0001 C CNN
+F 3 "~" V 10050 3350 50  0001 C CNN
+	1    10050 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D11
+U 1 1 614E79DF
+P 5550 4100
+F 0 "D11" V 5596 4032 50  0000 R CNN
+F 1 "D_Small" V 5505 4032 50  0000 R CNN
+F 2 "" V 5550 4100 50  0001 C CNN
+F 3 "~" V 5550 4100 50  0001 C CNN
+	1    5550 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D12
+U 1 1 614E8224
+P 6050 4100
+F 0 "D12" V 6096 4032 50  0000 R CNN
+F 1 "D_Small" V 6005 4032 50  0000 R CNN
+F 2 "" V 6050 4100 50  0001 C CNN
+F 3 "~" V 6050 4100 50  0001 C CNN
+	1    6050 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D13
+U 1 1 614E8690
+P 6550 4100
+F 0 "D13" V 6596 4032 50  0000 R CNN
+F 1 "D_Small" V 6505 4032 50  0000 R CNN
+F 2 "" V 6550 4100 50  0001 C CNN
+F 3 "~" V 6550 4100 50  0001 C CNN
+	1    6550 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D14
+U 1 1 614E8C4B
+P 7050 4100
+F 0 "D14" V 7096 4032 50  0000 R CNN
+F 1 "D_Small" V 7005 4032 50  0000 R CNN
+F 2 "" V 7050 4100 50  0001 C CNN
+F 3 "~" V 7050 4100 50  0001 C CNN
+	1    7050 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D15
+U 1 1 614E90CB
+P 7550 4100
+F 0 "D15" V 7596 4032 50  0000 R CNN
+F 1 "D_Small" V 7505 4032 50  0000 R CNN
+F 2 "" V 7550 4100 50  0001 C CNN
+F 3 "~" V 7550 4100 50  0001 C CNN
+	1    7550 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D16
+U 1 1 614E9712
+P 8050 4100
+F 0 "D16" V 8096 4032 50  0000 R CNN
+F 1 "D_Small" V 8005 4032 50  0000 R CNN
+F 2 "" V 8050 4100 50  0001 C CNN
+F 3 "~" V 8050 4100 50  0001 C CNN
+	1    8050 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D17
+U 1 1 614E9AF2
+P 8550 4100
+F 0 "D17" V 8596 4032 50  0000 R CNN
+F 1 "D_Small" V 8505 4032 50  0000 R CNN
+F 2 "" V 8550 4100 50  0001 C CNN
+F 3 "~" V 8550 4100 50  0001 C CNN
+	1    8550 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D18
+U 1 1 614E9FF9
+P 9050 4100
+F 0 "D18" V 9096 4032 50  0000 R CNN
+F 1 "D_Small" V 9005 4032 50  0000 R CNN
+F 2 "" V 9050 4100 50  0001 C CNN
+F 3 "~" V 9050 4100 50  0001 C CNN
+	1    9050 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D19
+U 1 1 614EA61D
+P 9550 4100
+F 0 "D19" V 9596 4032 50  0000 R CNN
+F 1 "D_Small" V 9505 4032 50  0000 R CNN
+F 2 "" V 9550 4100 50  0001 C CNN
+F 3 "~" V 9550 4100 50  0001 C CNN
+	1    9550 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D20
+U 1 1 614EAB0B
+P 10050 4100
+F 0 "D20" V 10096 4032 50  0000 R CNN
+F 1 "D_Small" V 10005 4032 50  0000 R CNN
+F 2 "" V 10050 4100 50  0001 C CNN
+F 3 "~" V 10050 4100 50  0001 C CNN
+	1    10050 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D21
+U 1 1 614EB148
+P 5550 4850
+F 0 "D21" V 5596 4782 50  0000 R CNN
+F 1 "D_Small" V 5505 4782 50  0000 R CNN
+F 2 "" V 5550 4850 50  0001 C CNN
+F 3 "~" V 5550 4850 50  0001 C CNN
+	1    5550 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D22
+U 1 1 614EB8F2
+P 6050 4850
+F 0 "D22" V 6096 4782 50  0000 R CNN
+F 1 "D_Small" V 6005 4782 50  0000 R CNN
+F 2 "" V 6050 4850 50  0001 C CNN
+F 3 "~" V 6050 4850 50  0001 C CNN
+	1    6050 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D23
+U 1 1 614EBD72
+P 6550 4850
+F 0 "D23" V 6596 4782 50  0000 R CNN
+F 1 "D_Small" V 6505 4782 50  0000 R CNN
+F 2 "" V 6550 4850 50  0001 C CNN
+F 3 "~" V 6550 4850 50  0001 C CNN
+	1    6550 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D24
+U 1 1 614EC297
+P 7050 4850
+F 0 "D24" V 7096 4782 50  0000 R CNN
+F 1 "D_Small" V 7005 4782 50  0000 R CNN
+F 2 "" V 7050 4850 50  0001 C CNN
+F 3 "~" V 7050 4850 50  0001 C CNN
+	1    7050 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D25
+U 1 1 614EC84D
+P 7550 4850
+F 0 "D25" V 7596 4782 50  0000 R CNN
+F 1 "D_Small" V 7505 4782 50  0000 R CNN
+F 2 "" V 7550 4850 50  0001 C CNN
+F 3 "~" V 7550 4850 50  0001 C CNN
+	1    7550 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D26
+U 1 1 614ECE8A
+P 8050 4850
+F 0 "D26" V 8096 4782 50  0000 R CNN
+F 1 "D_Small" V 8005 4782 50  0000 R CNN
+F 2 "" V 8050 4850 50  0001 C CNN
+F 3 "~" V 8050 4850 50  0001 C CNN
+	1    8050 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D28
+U 1 1 614ED866
+P 9050 4850
+F 0 "D28" V 9096 4782 50  0000 R CNN
+F 1 "D_Small" V 9005 4782 50  0000 R CNN
+F 2 "" V 9050 4850 50  0001 C CNN
+F 3 "~" V 9050 4850 50  0001 C CNN
+	1    9050 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D29
+U 1 1 614EDCBE
+P 9550 4850
+F 0 "D29" V 9596 4782 50  0000 R CNN
+F 1 "D_Small" V 9505 4782 50  0000 R CNN
+F 2 "" V 9550 4850 50  0001 C CNN
+F 3 "~" V 9550 4850 50  0001 C CNN
+	1    9550 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D30
+U 1 1 614EE102
+P 10050 4850
+F 0 "D30" V 10096 4782 50  0000 R CNN
+F 1 "D_Small" V 10005 4782 50  0000 R CNN
+F 2 "" V 10050 4850 50  0001 C CNN
+F 3 "~" V 10050 4850 50  0001 C CNN
+	1    10050 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D31
+U 1 1 614EE58C
+P 5550 5600
+F 0 "D31" V 5596 5532 50  0000 R CNN
+F 1 "D_Small" V 5505 5532 50  0000 R CNN
+F 2 "" V 5550 5600 50  0001 C CNN
+F 3 "~" V 5550 5600 50  0001 C CNN
+	1    5550 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D32
+U 1 1 614EEBC4
+P 6550 5600
+F 0 "D32" V 6596 5532 50  0000 R CNN
+F 1 "D_Small" V 6505 5532 50  0000 R CNN
+F 2 "" V 6550 5600 50  0001 C CNN
+F 3 "~" V 6550 5600 50  0001 C CNN
+	1    6550 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D33
+U 1 1 614EF134
+P 7050 5600
+F 0 "D33" V 7096 5532 50  0000 R CNN
+F 1 "D_Small" V 7005 5532 50  0000 R CNN
+F 2 "" V 7050 5600 50  0001 C CNN
+F 3 "~" V 7050 5600 50  0001 C CNN
+	1    7050 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D34
+U 1 1 614EF500
+P 7550 5600
+F 0 "D34" V 7596 5532 50  0000 R CNN
+F 1 "D_Small" V 7505 5532 50  0000 R CNN
+F 2 "" V 7550 5600 50  0001 C CNN
+F 3 "~" V 7550 5600 50  0001 C CNN
+	1    7550 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D35
+U 1 1 614F096F
+P 8050 5600
+F 0 "D35" V 8096 5532 50  0000 R CNN
+F 1 "D_Small" V 8005 5532 50  0000 R CNN
+F 2 "" V 8050 5600 50  0001 C CNN
+F 3 "~" V 8050 5600 50  0001 C CNN
+	1    8050 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D36
+U 1 1 614F0FD4
+P 8550 5600
+F 0 "D36" V 8596 5532 50  0000 R CNN
+F 1 "D_Small" V 8505 5532 50  0000 R CNN
+F 2 "" V 8550 5600 50  0001 C CNN
+F 3 "~" V 8550 5600 50  0001 C CNN
+	1    8550 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D34
+U 1 1 614F1710
+P 9050 5600
+F 0 "D34" V 9096 5532 50  0000 R CNN
+F 1 "D_Small" V 9005 5532 50  0000 R CNN
+F 2 "" V 9050 5600 50  0001 C CNN
+F 3 "~" V 9050 5600 50  0001 C CNN
+	1    9050 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D43
+U 1 1 614F2040
+P 10050 5600
+F 0 "D43" V 10096 5532 50  0000 R CNN
+F 1 "D_Small" V 10005 5532 50  0000 R CNN
+F 2 "" V 10050 5600 50  0001 C CNN
+F 3 "~" V 10050 5600 50  0001 C CNN
+	1    10050 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8050 2700 8550 2700
+Connection ~ 8550 2700
+Wire Wire Line
+	8550 2700 9050 2700
+Connection ~ 9050 2700
+Wire Wire Line
+	9050 2700 9550 2700
+Connection ~ 9550 2700
+Wire Wire Line
+	9550 2700 10050 2700
+Wire Wire Line
+	5550 3450 6050 3450
+Connection ~ 6050 3450
+Wire Wire Line
+	6050 3450 6550 3450
+Connection ~ 6550 3450
+Wire Wire Line
+	6550 3450 7050 3450
+Connection ~ 7050 3450
+Wire Wire Line
+	7050 3450 7550 3450
+Connection ~ 7550 3450
+Wire Wire Line
+	7550 3450 8050 3450
+Connection ~ 8050 3450
+Wire Wire Line
+	8050 3450 8550 3450
+Connection ~ 8550 3450
+Wire Wire Line
+	8550 3450 9050 3450
+Connection ~ 9050 3450
+Wire Wire Line
+	9050 3450 9550 3450
+Connection ~ 9550 3450
+Wire Wire Line
+	9550 3450 10050 3450
+Wire Wire Line
+	5550 4200 6050 4200
+Connection ~ 6050 4200
+Wire Wire Line
+	6050 4200 6550 4200
+Connection ~ 6550 4200
+Wire Wire Line
+	6550 4200 7050 4200
+Connection ~ 7050 4200
+Wire Wire Line
+	7050 4200 7550 4200
+Connection ~ 7550 4200
+Wire Wire Line
+	7550 4200 8050 4200
+Connection ~ 8050 4200
+Wire Wire Line
+	8050 4200 8550 4200
+Connection ~ 8550 4200
+Wire Wire Line
+	8550 4200 9050 4200
+Connection ~ 9050 4200
+Wire Wire Line
+	9050 4200 9550 4200
+Connection ~ 9550 4200
+Wire Wire Line
+	9550 4200 10050 4200
+Wire Wire Line
+	5550 4950 6050 4950
+Connection ~ 6050 4950
+Wire Wire Line
+	6050 4950 6550 4950
+Connection ~ 6550 4950
+Wire Wire Line
+	6550 4950 7050 4950
+Connection ~ 7050 4950
+Wire Wire Line
+	7050 4950 7550 4950
+Connection ~ 7550 4950
+Wire Wire Line
+	7550 4950 8050 4950
+Connection ~ 8050 4950
+Wire Wire Line
+	8050 4950 8550 4950
+Connection ~ 8550 4950
+Wire Wire Line
+	8550 4950 9050 4950
+Connection ~ 9050 4950
+Wire Wire Line
+	9050 4950 9550 4950
+Connection ~ 9550 4950
+Wire Wire Line
+	9550 4950 10050 4950
+Wire Wire Line
+	5550 5700 6550 5700
+Connection ~ 6550 5700
+Wire Wire Line
+	6550 5700 7050 5700
+Connection ~ 7050 5700
+Wire Wire Line
+	7050 5700 7550 5700
+Connection ~ 7550 5700
+Wire Wire Line
+	7550 5700 8050 5700
+Connection ~ 8050 5700
+Wire Wire Line
+	8050 5700 8550 5700
+Connection ~ 8550 5700
+Wire Wire Line
+	8550 5700 9050 5700
+Connection ~ 9050 5700
+Wire Wire Line
+	9050 5700 10050 5700
+Wire Wire Line
+	5750 3050 5750 3800
+Connection ~ 5750 3800
+Wire Wire Line
+	5750 3800 5750 4550
+Connection ~ 5750 4550
+Wire Wire Line
+	5750 4550 5750 5300
+Wire Wire Line
+	6250 3050 6250 3800
+Connection ~ 6250 3800
+Wire Wire Line
+	6250 3800 6250 4550
+Wire Wire Line
+	6750 3050 6750 3800
+Connection ~ 6750 3800
+Wire Wire Line
+	6750 3800 6750 4550
+Connection ~ 6750 4550
+Wire Wire Line
+	6750 4550 6750 5300
+Wire Wire Line
+	7250 3050 7250 3800
+Connection ~ 7250 3800
+Wire Wire Line
+	7250 3800 7250 4550
+Connection ~ 7250 4550
+Wire Wire Line
+	7250 4550 7250 5300
+Wire Wire Line
+	7750 3050 7750 3800
+Wire Wire Line
+	7750 5300 7700 5300
+Connection ~ 7750 5300
+Connection ~ 7750 3800
+Wire Wire Line
+	7750 3800 7750 4550
+Connection ~ 7750 4550
+Wire Wire Line
+	7750 4550 7750 5300
+Wire Wire Line
+	8250 2300 8250 3050
+Wire Wire Line
+	8250 5300 8200 5300
+Connection ~ 8250 5300
+Connection ~ 8250 3050
+Wire Wire Line
+	8250 3050 8250 3800
+Connection ~ 8250 3800
+Wire Wire Line
+	8250 3800 8250 4550
+Connection ~ 8250 4550
+Wire Wire Line
+	8250 4550 8250 5300
+Wire Wire Line
+	8750 2300 8750 3050
+Connection ~ 8750 3050
+Wire Wire Line
+	8750 3050 8750 3800
+Connection ~ 8750 3800
+Wire Wire Line
+	8750 3800 8750 4550
+Connection ~ 8750 4550
+Wire Wire Line
+	8750 4550 8750 5300
+Wire Wire Line
+	9250 2300 9250 3050
+Connection ~ 9250 3050
+Wire Wire Line
+	9250 3050 9250 3800
+Connection ~ 9250 3800
+Wire Wire Line
+	9250 3800 9250 4550
+Connection ~ 9250 4550
+Wire Wire Line
+	9250 4550 9250 5300
+Wire Wire Line
+	9750 2300 9750 3050
+Connection ~ 9750 3050
+Wire Wire Line
+	9750 3050 9750 3800
+Connection ~ 9750 3800
+Wire Wire Line
+	9750 3800 9750 4550
+Wire Wire Line
+	10250 2300 10250 3050
+Connection ~ 10250 3050
+Wire Wire Line
+	10250 3050 10250 3800
+Connection ~ 10250 3800
+Wire Wire Line
+	10250 3800 10250 4550
+Wire Wire Line
+	10250 4550 10250 5300
+Connection ~ 10250 4550
+$Comp
+L Device:D_Small D27
+U 1 1 614ED332
+P 8550 4850
+F 0 "D27" V 8596 4782 50  0000 R CNN
+F 1 "D_Small" V 8505 4782 50  0000 R CNN
+F 2 "" V 8550 4850 50  0001 C CNN
+F 3 "~" V 8550 4850 50  0001 C CNN
+	1    8550 4850
 	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC
