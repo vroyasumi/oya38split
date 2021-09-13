@@ -147,17 +147,6 @@ F 3 "" H 4975 3825 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED M12
-U 1 1 6140893D
-P 6100 3850
-F 0 "M12" H 6133 4073 60  0000 C CNN
-F 1 "MX-NoLED" H 6133 3999 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5475 3825 60  0001 C CNN
-F 3 "" H 5475 3825 60  0001 C CNN
-	1    6100 3850
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX13
 U 1 1 61409000
 P 6600 3850
@@ -1100,11 +1089,6 @@ Connection ~ 5750 4550
 Wire Wire Line
 	5750 4550 5750 5300
 Wire Wire Line
-	6250 3050 6250 3800
-Connection ~ 6250 3800
-Wire Wire Line
-	6250 3800 6250 4550
-Wire Wire Line
 	6750 3050 6750 3800
 Connection ~ 6750 3800
 Wire Wire Line
@@ -1196,5 +1180,21 @@ F 2 "kbd:D3_SMD_v2" V 8550 4850 50  0001 C CNN
 F 3 "~" V 8550 4850 50  0001 C CNN
 	1    8550 4850
 	0    -1   -1   0   
+$EndComp
+Connection ~ 6250 3800
+Wire Wire Line
+	6250 3800 6250 4550
+Wire Wire Line
+	6250 3050 6250 3800
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 6140893D
+P 6100 3850
+F 0 "MX12" H 6133 4073 60  0000 C CNN
+F 1 "MX-NoLED" H 6133 3999 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5475 3825 60  0001 C CNN
+F 3 "" H 5475 3825 60  0001 C CNN
+	1    6100 3850
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
