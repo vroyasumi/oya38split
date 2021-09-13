@@ -1197,4 +1197,79 @@ F 3 "" H 5475 3825 60  0001 C CNN
 	1    6100 3850
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	10250 2300 10250 2000
+Connection ~ 10250 2300
+Wire Wire Line
+	9750 2300 9750 2000
+Connection ~ 9750 2300
+Wire Wire Line
+	9250 2300 9250 2000
+Connection ~ 9250 2300
+Wire Wire Line
+	8750 2300 8750 2000
+Connection ~ 8750 2300
+Wire Wire Line
+	8250 2300 8250 2000
+Connection ~ 8250 2300
+Wire Wire Line
+	5550 3450 5250 3450
+Connection ~ 5550 3450
+Wire Wire Line
+	5550 4200 5250 4200
+Connection ~ 5550 4200
+Wire Wire Line
+	5550 4950 5250 4950
+Connection ~ 5550 4950
+Wire Wire Line
+	5550 5700 5250 5700
+Connection ~ 5550 5700
+Wire Wire Line
+	7750 3050 7750 2000
+Connection ~ 7750 3050
+Wire Wire Line
+	7250 3050 7250 2000
+Connection ~ 7250 3050
+Wire Wire Line
+	6750 3050 6750 2000
+Connection ~ 6750 3050
+Wire Wire Line
+	6250 3050 6250 2000
+Connection ~ 6250 3050
+Wire Wire Line
+	5750 3050 5750 2000
+Connection ~ 5750 3050
+Wire Wire Line
+	8050 2700 5250 2700
+Connection ~ 8050 2700
+Text GLabel 5750 2000 1    50   Input ~ 0
+col0
+Text GLabel 6250 2000 1    50   Input ~ 0
+col1
+Text GLabel 6750 2000 1    50   Input ~ 0
+col2
+Text GLabel 7250 2000 1    50   Input ~ 0
+col3
+Text GLabel 7750 2000 1    50   Input ~ 0
+col4
+Text GLabel 8250 2000 1    50   Input ~ 0
+col5
+Text GLabel 8750 2000 1    50   Input ~ 0
+col6
+Text GLabel 9250 2000 1    50   Input ~ 0
+col7
+Text GLabel 9750 2000 1    50   Input ~ 0
+col8
+Text GLabel 10250 2000 1    50   Input ~ 0
+col9
+Text GLabel 5250 2700 0    50   Input ~ 0
+row0
+Text GLabel 5250 3450 0    50   Input ~ 0
+row1
+Text GLabel 5250 4200 0    50   Input ~ 0
+row2
+Text GLabel 5250 4950 0    50   Input ~ 0
+row3
+Text GLabel 5250 5700 0    50   Input ~ 0
+row4
 $EndSCHEMATC
