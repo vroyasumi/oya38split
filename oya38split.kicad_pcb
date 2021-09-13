@@ -2238,7 +2238,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D10)
-    (at 65.0875 114.3 90)
+    (at 65.0875 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EE58C)

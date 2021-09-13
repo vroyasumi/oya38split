@@ -1866,15 +1866,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7DB8)
-    (at 88.50625 24.85)
+    (at 211.1375 38.89375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DDDA3)
     (autoplace_cost180 10)
-    (fp_text reference D43 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D43 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -1885,9 +1885,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 48 "Net-(D43-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 44 "Net-(D39-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -1897,15 +1897,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7DAA)
-    (at 75.40625 27.5)
+    (at 207.9625 38.89375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DD8CE)
     (autoplace_cost180 10)
-    (fp_text reference D42 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D42 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -1916,9 +1916,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 47 "Net-(D42-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 44 "Net-(D39-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -1928,15 +1928,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D9C)
-    (at 81.95625 27.5)
+    (at 190.5 38.89375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DD2F0)
     (autoplace_cost180 10)
-    (fp_text reference D41 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D41 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -1947,9 +1947,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 46 "Net-(D41-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 44 "Net-(D39-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -1959,15 +1959,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D8E)
-    (at 88.50625 27.5)
+    (at 171.45 38.89375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DCBBE)
     (autoplace_cost180 10)
-    (fp_text reference D40 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D40 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -1978,9 +1978,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 45 "Net-(D40-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 44 "Net-(D39-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -1990,7 +1990,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D80)
-    (at 152.4 38.1 90)
+    (at 152.4 38.89375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DA44F)
@@ -2021,7 +2021,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D72)
-    (at 220.6625 114.3 90)
+    (at 220.6625 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F2040)
@@ -2052,7 +2052,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D64)
-    (at 182.5625 114.3 90)
+    (at 182.5625 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F1710)
@@ -2083,7 +2083,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D56)
-    (at 179.3875 114.3 90)
+    (at 179.3875 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F0FD4)
@@ -2114,7 +2114,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D48)
-    (at 144.4625 114.3 90)
+    (at 144.4625 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F096F)
@@ -2145,15 +2145,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D3A)
-    (at 75.40625 24.85)
+    (at 141.2875 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EF500)
     (autoplace_cost180 10)
-    (fp_text reference D34 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D34 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2164,9 +2164,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 38 "Net-(D34-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 35 "Net-(D31-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2176,15 +2176,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D2C)
-    (at 95.05625 25.89)
+    (at 106.3625 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EF134)
     (autoplace_cost180 10)
-    (fp_text reference D33 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D33 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2195,9 +2195,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 37 "Net-(D33-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 35 "Net-(D31-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2207,7 +2207,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D1E)
-    (at 87.3125 114.3 90)
+    (at 103.1875 115.09375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EEBC4)
@@ -2269,7 +2269,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7D02)
-    (at 220.6625 95.25 90)
+    (at 220.6625 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EE102)
@@ -2300,7 +2300,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CF4)
-    (at 217.4875 95.25 90)
+    (at 217.4875 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EDCBE)
@@ -2331,7 +2331,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CE6)
-    (at 200.025 95.25 90)
+    (at 200.025 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ED866)
@@ -2362,15 +2362,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CD8)
-    (at 101.60625 25.89)
+    (at 180.975 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ED332)
     (autoplace_cost180 10)
-    (fp_text reference D27 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D27 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2381,9 +2381,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 30 "Net-(D27-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 24 "Net-(D21-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2393,15 +2393,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CCA)
-    (at 108.15625 25.89)
+    (at 161.925 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ECE8A)
     (autoplace_cost180 10)
-    (fp_text reference D26 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D26 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2412,9 +2412,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 29 "Net-(D26-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 24 "Net-(D21-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2424,7 +2424,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CBC)
-    (at 142.875 95.25 90)
+    (at 142.875 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EC84D)
@@ -2455,15 +2455,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CAE)
-    (at 81.95625 24.85)
+    (at 123.825 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EC297)
     (autoplace_cost180 10)
-    (fp_text reference D24 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D24 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2474,9 +2474,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 27 "Net-(D24-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 24 "Net-(D21-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2486,15 +2486,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7CA0)
-    (at 127.80625 25.89)
+    (at 104.775 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EBD72)
     (autoplace_cost180 10)
-    (fp_text reference D23 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D23 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2505,9 +2505,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 26 "Net-(D23-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 24 "Net-(D21-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2517,7 +2517,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C92)
-    (at 85.725 95.25 90)
+    (at 85.725 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EB8F2)
@@ -2548,7 +2548,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C84)
-    (at 66.675 95.25 90)
+    (at 66.675 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EB148)
@@ -2579,7 +2579,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C76)
-    (at 220.6625 76.2 90)
+    (at 220.6625 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EAB0B)
@@ -2610,7 +2610,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C68)
-    (at 217.4875 76.2 90)
+    (at 217.4875 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EA61D)
@@ -2641,7 +2641,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C5A)
-    (at 200.025 76.2 90)
+    (at 200.025 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9FF9)
@@ -2672,15 +2672,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C4C)
-    (at 114.70625 25.89)
+    (at 180.975 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9AF2)
     (autoplace_cost180 10)
-    (fp_text reference D17 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D17 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2691,9 +2691,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 19 "Net-(D17-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 13 "Net-(D11-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2703,7 +2703,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C3E)
-    (at 161.925 76.2 90)
+    (at 161.925 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9712)
@@ -2734,7 +2734,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C30)
-    (at 142.875 76.2 90)
+    (at 142.875 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E90CB)
@@ -2765,7 +2765,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C22)
-    (at 123.825 76.2 90)
+    (at 123.825 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8C4B)
@@ -2796,7 +2796,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C14)
-    (at 104.775 76.2 90)
+    (at 104.775 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8690)
@@ -2827,7 +2827,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7C06)
-    (at 85.725 76.2 90)
+    (at 85.725 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8224)
@@ -2858,15 +2858,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BF8)
-    (at 121.25625 28.54)
+    (at 66.675 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E79DF)
     (autoplace_cost180 10)
-    (fp_text reference D11 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D11 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2877,9 +2877,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 12 "Net-(D11-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 13 "Net-(D11-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2889,15 +2889,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BEA)
-    (at 127.80625 28.54)
+    (at 220.6625 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E74B5)
     (autoplace_cost180 10)
-    (fp_text reference D10 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D10 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2908,9 +2908,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 11 "Net-(D10-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 2 "Net-(D1-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2920,7 +2920,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BDC)
-    (at 217.4875 57.15 90)
+    (at 217.4875 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E7026)
@@ -2951,7 +2951,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BCE)
-    (at 200.025 57.15 90)
+    (at 200.025 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E6976)
@@ -2982,7 +2982,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BC0)
-    (at 180.975 57.15 90)
+    (at 180.975 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E63B6)
@@ -3013,7 +3013,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BB2)
-    (at 161.925 57.15 90)
+    (at 161.925 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E5D06)
@@ -3044,7 +3044,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7BA4)
-    (at 142.875 57.15 90)
+    (at 142.875 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DFED2)
@@ -3075,7 +3075,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7B96)
-    (at 123.825 57.15 90)
+    (at 123.825 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DF854)
@@ -3106,7 +3106,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7B88)
-    (at 104.775 57.15 90)
+    (at 104.775 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DF1F9)
@@ -3137,7 +3137,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7B7A)
-    (at 85.725 57.15 90)
+    (at 85.725 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DED1A)
@@ -3168,7 +3168,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 613F7B6C)
-    (at 66.675 57.15 90)
+    (at 66.675 57.94375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DE412)
