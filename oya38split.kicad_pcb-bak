@@ -508,7 +508,7 @@
   )
 
   (module MX_Only:MXOnly-2U-ReversedStabilizers-NoLED (layer B.Cu) (tedit 5BD3C7BF) (tstamp 614044F3)
-    (at 3.175 114.3 180)
+    (at 4.7625 133.35 180)
     (path /6141B38D)
     (fp_text reference MX45 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -576,7 +576,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614044C1)
-    (at -53.975 38.1 180)
+    (at -52.3875 57.15 180)
     (path /614048A9)
     (fp_text reference MX43 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -606,7 +606,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614044AC)
-    (at -34.925 38.1 180)
+    (at -33.3375 57.15 180)
     (path /61404358)
     (fp_text reference MX42 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -636,7 +636,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404497)
-    (at -15.875 38.1 180)
+    (at -14.2875 57.15 180)
     (path /61403E84)
     (fp_text reference MX41 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -666,7 +666,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404482)
-    (at 3.175 38.1 180)
+    (at 4.7625 57.15 180)
     (path /61403A4B)
     (fp_text reference MX40 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -696,7 +696,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140446D)
-    (at 22.225 38.1 180)
+    (at 23.8125 57.15 180)
     (path /613FF4F6)
     (fp_text reference MX39 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -726,7 +726,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404458)
-    (at -63.5 114.3 180)
+    (at -61.9125 133.35 180)
     (path /614118FC)
     (fp_text reference MX38 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -756,7 +756,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404443)
-    (at -25.4 114.3 180)
+    (at -23.8125 133.35 180)
     (path /6143B1DD)
     (fp_text reference MX37 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -786,7 +786,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140442E)
-    (at -6.35 114.3 180)
+    (at -4.7625 133.35 180)
     (path /61411379)
     (fp_text reference MX36 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -816,7 +816,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404419)
-    (at 12.7 114.3 180)
+    (at 14.2875 133.35 180)
     (path /61410D79)
     (fp_text reference MX35 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -966,7 +966,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614043B0)
-    (at -63.5 95.25 180)
+    (at -61.9125 114.3 180)
     (path /6140F49D)
     (fp_text reference MX30 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -996,7 +996,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140439B)
-    (at -44.45 95.25 180)
+    (at -42.8625 114.3 180)
     (path /6140EF74)
     (fp_text reference MX29 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1026,7 +1026,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404386)
-    (at -25.4 95.25 180)
+    (at -23.8125 114.3 180)
     (path /6140EB59)
     (fp_text reference MX28 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1056,7 +1056,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404371)
-    (at -6.35 95.25 180)
+    (at -4.7625 114.3 180)
     (path /6140E76B)
     (fp_text reference MX27 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1086,7 +1086,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140435C)
-    (at 12.7 95.25 180)
+    (at 14.2875 114.3 180)
     (path /6140E247)
     (fp_text reference MX26 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1266,7 +1266,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614042DE)
-    (at -63.5 76.2 180)
+    (at -61.9125 95.25 180)
     (path /6140B27B)
     (fp_text reference MX20 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1296,7 +1296,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614042C9)
-    (at -44.45 76.2 180)
+    (at -42.8625 95.25 180)
     (path /6140AC80)
     (fp_text reference MX19 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1326,7 +1326,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614042B4)
-    (at -25.4 76.2 180)
+    (at -23.8125 95.25 180)
     (path /6140A739)
     (fp_text reference MX18 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1356,7 +1356,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140429F)
-    (at -6.35 76.2 180)
+    (at -4.7625 95.25 180)
     (path /6140A33C)
     (fp_text reference MX17 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1386,7 +1386,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140428A)
-    (at 12.7 76.2 180)
+    (at 14.2875 95.25 180)
     (path /61409E18)
     (fp_text reference MX16 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1536,7 +1536,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 61404221)
-    (at -63.5 57.15 180)
+    (at -61.9125 76.2 180)
     (path /61407D6A)
     (fp_text reference MX10 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1566,7 +1566,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 6140420C)
-    (at -44.45 57.15 180)
+    (at -42.8625 76.2 180)
     (path /614078B4)
     (fp_text reference MX9 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1596,7 +1596,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614041F7)
-    (at -25.4 57.15 180)
+    (at -23.8125 76.2 180)
     (path /614074A3)
     (fp_text reference MX8 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1626,7 +1626,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614041E2)
-    (at -6.35 57.15 180)
+    (at -4.7625 76.2 180)
     (path /61406E6C)
     (fp_text reference MX7 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1656,7 +1656,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer B.Cu) (tedit 5BD3C6C7) (tstamp 614041CD)
-    (at 12.7 57.15 180)
+    (at 14.2875 76.2 180)
     (path /61406989)
     (fp_text reference MX6 (at 0 -3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1866,7 +1866,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6140413A)
-    (at -189.30625 72.475)
+    (at 44.85 25.64375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DDDA3)
@@ -1897,7 +1897,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6140412C)
-    (at -202.40625 75.125)
+    (at 31.75 28.29375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DD8CE)
@@ -1928,7 +1928,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6140411E)
-    (at -195.85625 75.125)
+    (at 38.3 28.29375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DD2F0)
@@ -1959,7 +1959,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404110)
-    (at -202.40625 77.775)
+    (at 31.75 30.94375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DCBBE)
@@ -1990,7 +1990,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404102)
-    (at -195.85625 77.775)
+    (at 38.3 30.94375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DA44F)
@@ -2021,7 +2021,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040F4)
-    (at -202.40625 80.425)
+    (at 31.75 33.59375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F2040)
@@ -2052,7 +2052,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040E6)
-    (at -202.40625 83.075)
+    (at 31.75 36.24375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F1710)
@@ -2083,7 +2083,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040D8)
-    (at -195.85625 80.425)
+    (at 38.3 33.59375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F0FD4)
@@ -2114,7 +2114,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040CA)
-    (at -195.85625 83.075)
+    (at 38.3 36.24375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F096F)
@@ -2145,7 +2145,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040BC)
-    (at -202.40625 72.475)
+    (at 31.75 25.64375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EF500)
@@ -2176,7 +2176,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040AE)
-    (at -189.30625 75.125)
+    (at 44.85 28.29375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EF134)
@@ -2207,7 +2207,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614040A0)
-    (at -182.75625 72.475)
+    (at 51.4 25.64375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EEBC4)
@@ -2238,7 +2238,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404092)
-    (at -189.30625 77.775)
+    (at 44.85 30.94375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EE58C)
@@ -2269,7 +2269,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404084)
-    (at -195.85625 85.725)
+    (at 38.3 38.89375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EE102)
@@ -2300,7 +2300,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404076)
-    (at -189.30625 80.425)
+    (at 44.85 33.59375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EDCBE)
@@ -2331,7 +2331,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404068)
-    (at -182.75625 75.125)
+    (at 51.4 28.29375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ED866)
@@ -2362,7 +2362,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6140405A)
-    (at -176.20625 72.475)
+    (at 57.95 25.64375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ED332)
@@ -2393,7 +2393,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6140404C)
-    (at -169.65625 72.475)
+    (at 64.5 25.64375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ECE8A)
@@ -2424,7 +2424,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6140403E)
-    (at -176.20625 75.125)
+    (at 57.95 28.29375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EC84D)
@@ -2455,7 +2455,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404030)
-    (at -195.85625 72.475)
+    (at 38.3 25.64375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EC297)
@@ -2486,15 +2486,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404022)
-    (at -163.10625 73.845)
+    (at 103.1875 96.04375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EBD72)
     (autoplace_cost180 10)
-    (fp_text reference D23 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D23 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2505,9 +2505,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 26 "Net-(D23-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 24 "Net-(D21-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2517,7 +2517,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404014)
-    (at -182.75625 80.425)
+    (at 51.4 33.59375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EB8F2)
@@ -2548,7 +2548,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61404006)
-    (at -189.30625 83.075)
+    (at 44.85 36.24375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EB148)
@@ -2579,7 +2579,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FF8)
-    (at -182.75625 83.075)
+    (at 51.4 36.24375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EAB0B)
@@ -2610,7 +2610,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FEA)
-    (at -189.30625 85.725)
+    (at 44.85 38.89375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EA61D)
@@ -2641,7 +2641,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FDC)
-    (at -182.75625 85.725)
+    (at 51.4 38.89375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9FF9)
@@ -2672,7 +2672,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FCE)
-    (at -176.20625 80.425)
+    (at 57.95 33.59375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9AF2)
@@ -2703,7 +2703,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FC0)
-    (at -176.20625 83.075)
+    (at 57.95 36.24375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9712)
@@ -2734,7 +2734,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FB2)
-    (at -169.65625 75.125)
+    (at 64.5 28.29375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E90CB)
@@ -2765,15 +2765,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403FA4)
-    (at -162.00625 71.195)
+    (at 122.2375 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8C4B)
     (autoplace_cost180 10)
-    (fp_text reference D14 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D14 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2784,9 +2784,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 16 "Net-(D14-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 13 "Net-(D11-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2796,7 +2796,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F96)
-    (at -182.75625 77.775)
+    (at 51.4 30.94375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8690)
@@ -2827,7 +2827,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F88)
-    (at -176.20625 77.775)
+    (at 57.95 30.94375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8224)
@@ -2858,15 +2858,15 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F7A)
-    (at -156.55625 73.845)
+    (at 65.0875 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E79DF)
     (autoplace_cost180 10)
-    (fp_text reference D11 (at 0.5 0) (layer F.Fab) hide
+    (fp_text reference D11 (at 0.5 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
+    (fp_text value D_Small (at -0.6 0 90) (layer F.Fab) hide
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     )
     (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
@@ -2877,9 +2877,9 @@
     (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
     (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 12 "Net-(D11-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
       (net 13 "Net-(D11-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2888,29 +2888,29 @@
     )
   )
 
-  (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F6C)
-    (at -163.10625 76.495)
+  (module kbd:D3_SMD_v2 (layer B.Cu) (tedit 5F70BC50) (tstamp 61403F6C)
+    (at -69.85 76.99375 90)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E74B5)
     (autoplace_cost180 10)
-    (fp_text reference D10 (at 0.5 0) (layer F.Fab) hide
-      (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (fp_text reference D10 (at 0.5 0 270) (layer B.Fab) hide
+      (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
     )
-    (fp_text value D_Small (at -0.6 0) (layer F.Fab) hide
-      (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (fp_text value D_Small (at -0.6 0 270) (layer B.Fab) hide
+      (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
     )
-    (fp_line (start -2.7 0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.7 -0.75) (end -2.7 -0.75) (layer F.SilkS) (width 0.15))
-    (fp_line (start -2.7 -0.75) (end -2.7 0.75) (layer F.SilkS) (width 0.15))
-    (fp_line (start 2.7 -0.75) (end 2.7 0.75) (layer F.SilkS) (width 0.15))
-    (fp_line (start 0.5 -0.5) (end 0.5 0.5) (layer F.SilkS) (width 0.15))
-    (fp_line (start 0.5 0.5) (end -0.4 0) (layer F.SilkS) (width 0.15))
-    (fp_line (start -0.4 0) (end 0.5 -0.5) (layer F.SilkS) (width 0.15))
-    (fp_line (start -0.5 -0.5) (end -0.5 0.5) (layer F.SilkS) (width 0.15))
-    (pad 2 smd rect (at 1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (fp_line (start -2.7 -0.75) (end 2.7 -0.75) (layer B.SilkS) (width 0.15))
+    (fp_line (start 2.7 0.75) (end -2.7 0.75) (layer B.SilkS) (width 0.15))
+    (fp_line (start -2.7 0.75) (end -2.7 -0.75) (layer B.SilkS) (width 0.15))
+    (fp_line (start 2.7 0.75) (end 2.7 -0.75) (layer B.SilkS) (width 0.15))
+    (fp_line (start 0.5 0.5) (end 0.5 -0.5) (layer B.SilkS) (width 0.15))
+    (fp_line (start 0.5 -0.5) (end -0.4 0) (layer B.SilkS) (width 0.15))
+    (fp_line (start -0.4 0) (end 0.5 0.5) (layer B.SilkS) (width 0.15))
+    (fp_line (start -0.5 0.5) (end -0.5 -0.5) (layer B.SilkS) (width 0.15))
+    (pad 2 smd rect (at 1.775 0 90) (size 1.4 1) (layers B.Cu B.Paste B.Mask)
       (net 11 "Net-(D10-Pad2)"))
-    (pad 1 smd rect (at -1.775 0) (size 1.4 1) (layers F.Cu F.Paste F.Mask)
+    (pad 1 smd rect (at -1.775 0 90) (size 1.4 1) (layers B.Cu B.Paste B.Mask)
       (net 2 "Net-(D1-Pad1)"))
     (model ${KIGITHUB3D}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
@@ -2920,7 +2920,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F5E)
-    (at -156.55625 76.495)
+    (at 77.6 29.66375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E7026)
@@ -2951,7 +2951,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F50)
-    (at -163.10625 79.145)
+    (at 71.05 32.31375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E6976)
@@ -2982,7 +2982,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F42)
-    (at -156.55625 79.145)
+    (at 77.6 32.31375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E63B6)
@@ -3013,7 +3013,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F34)
-    (at -169.65625 81.795)
+    (at 64.5 34.96375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E5D06)
@@ -3044,7 +3044,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F26)
-    (at -163.10625 81.795)
+    (at 71.05 34.96375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DFED2)
@@ -3075,7 +3075,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F18)
-    (at -169.65625 84.445)
+    (at 64.5 37.61375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DF854)
@@ -3106,7 +3106,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403F0A)
-    (at -163.10625 84.445)
+    (at 71.05 37.61375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DF1F9)
@@ -3137,7 +3137,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403EFC)
-    (at -169.65625 77.775)
+    (at 64.5 30.94375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DED1A)
@@ -3168,7 +3168,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61403EEE)
-    (at -202.40625 85.725)
+    (at 31.75 38.89375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DE412)
