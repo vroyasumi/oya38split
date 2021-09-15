@@ -478,7 +478,7 @@
   )
 
   (module MX_Only:MXOnly-2U-ReversedStabilizers-NoLED (layer F.Cu) (tedit 5BD3C7BF) (tstamp 61427CFB)
-    (at -182.0875 16.925149)
+    (at 161.925 114.3)
     (path /6141B38D)
     (fp_text reference MX45 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -512,7 +512,7 @@
   )
 
   (module MX_Only:MXOnly-2U-ReversedStabilizers-NoLED (layer F.Cu) (tedit 5BD3C7BF) (tstamp 61427CE2)
-    (at -182.0875 37.765149)
+    (at 123.825 114.3)
     (path /6141AC97)
     (fp_text reference MX44 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1836,7 +1836,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427942)
-    (at -185.3375 109.78125)
+    (at -65.48125 51.8375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DDDA3)
@@ -1867,7 +1867,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427934)
-    (at -198.4375 112.43125)
+    (at -78.58125 54.4875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DD8CE)
@@ -1898,7 +1898,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427926)
-    (at -191.8875 112.43125)
+    (at -72.03125 54.4875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DD2F0)
@@ -1929,7 +1929,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427918)
-    (at -198.4375 115.08125)
+    (at -78.58125 57.1375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DCBBE)
@@ -1960,7 +1960,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142790A)
-    (at -191.8875 115.08125)
+    (at -72.03125 57.1375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DA44F)
@@ -1991,7 +1991,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278FC)
-    (at -198.4375 117.73125)
+    (at -78.58125 59.7875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F2040)
@@ -2022,7 +2022,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278EE)
-    (at -198.4375 120.38125)
+    (at -78.58125 62.4375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F1710)
@@ -2053,7 +2053,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278E0)
-    (at -191.8875 117.73125)
+    (at -72.03125 59.7875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F0FD4)
@@ -2084,7 +2084,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278D2)
-    (at -191.8875 120.38125)
+    (at -72.03125 62.4375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614F096F)
@@ -2115,7 +2115,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278C4)
-    (at -198.4375 109.78125)
+    (at -78.58125 51.8375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EF500)
@@ -2146,7 +2146,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278B6)
-    (at -185.3375 112.43125)
+    (at -65.48125 54.4875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EF134)
@@ -2177,7 +2177,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614278A8)
-    (at -178.7875 109.78125)
+    (at -58.93125 51.8375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EEBC4)
@@ -2208,7 +2208,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142789A)
-    (at -185.3375 115.08125)
+    (at -65.48125 57.1375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EE58C)
@@ -2239,7 +2239,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142788C)
-    (at -191.8875 123.03125)
+    (at -72.03125 65.0875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EE102)
@@ -2270,7 +2270,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142787E)
-    (at -185.3375 117.73125)
+    (at -65.48125 59.7875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EDCBE)
@@ -2301,7 +2301,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427870)
-    (at -178.7875 112.43125)
+    (at -58.93125 54.4875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ED866)
@@ -2332,7 +2332,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427862)
-    (at -172.2375 109.78125)
+    (at -52.38125 51.8375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ED332)
@@ -2363,7 +2363,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427854)
-    (at -165.6875 109.78125)
+    (at -45.83125 51.8375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614ECE8A)
@@ -2394,7 +2394,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427846)
-    (at -172.2375 112.43125)
+    (at -52.38125 54.4875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EC84D)
@@ -2425,7 +2425,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427838)
-    (at -191.8875 109.78125)
+    (at -72.03125 51.8375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EC297)
@@ -2456,7 +2456,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142782A)
-    (at -159.1375 111.15125)
+    (at -39.28125 53.2075)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EBD72)
@@ -2487,7 +2487,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142781C)
-    (at -178.7875 117.73125)
+    (at -58.93125 59.7875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EB8F2)
@@ -2518,7 +2518,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142780E)
-    (at -185.3375 120.38125)
+    (at -65.48125 62.4375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EB148)
@@ -2549,7 +2549,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427800)
-    (at -178.7875 120.38125)
+    (at -58.93125 62.4375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EAB0B)
@@ -2580,7 +2580,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614277F2)
-    (at -185.3375 123.03125)
+    (at -65.48125 65.0875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614EA61D)
@@ -2611,7 +2611,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614277E4)
-    (at -178.7875 123.03125)
+    (at -58.93125 65.0875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9FF9)
@@ -2642,7 +2642,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614277D6)
-    (at -172.2375 117.73125)
+    (at -52.38125 59.7875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9AF2)
@@ -2673,7 +2673,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614277C8)
-    (at -172.2375 120.38125)
+    (at -52.38125 62.4375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E9712)
@@ -2704,7 +2704,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614277BA)
-    (at -165.6875 112.43125)
+    (at -45.83125 54.4875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E90CB)
@@ -2735,7 +2735,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614277AC)
-    (at -158.0375 108.50125)
+    (at -38.18125 50.5575)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8C4B)
@@ -2766,7 +2766,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142779E)
-    (at -178.7875 115.08125)
+    (at -58.93125 57.1375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8690)
@@ -2797,7 +2797,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427790)
-    (at -172.2375 115.08125)
+    (at -52.38125 57.1375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E8224)
@@ -2828,7 +2828,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427782)
-    (at -152.5875 111.15125)
+    (at -32.73125 53.2075)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E79DF)
@@ -2859,7 +2859,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427774)
-    (at -159.1375 113.80125)
+    (at -39.28125 55.8575)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E74B5)
@@ -2890,7 +2890,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427766)
-    (at -152.5875 113.80125)
+    (at -32.73125 55.8575)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E7026)
@@ -2921,7 +2921,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427758)
-    (at -159.1375 116.45125)
+    (at -39.28125 58.5075)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E6976)
@@ -2952,7 +2952,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142774A)
-    (at -152.5875 116.45125)
+    (at -32.73125 58.5075)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E63B6)
@@ -2983,7 +2983,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142773C)
-    (at -165.6875 119.10125)
+    (at -45.83125 61.1575)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614E5D06)
@@ -3014,7 +3014,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 6142772E)
-    (at -159.1375 119.10125)
+    (at -39.28125 61.1575)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DFED2)
@@ -3045,7 +3045,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427720)
-    (at -165.6875 121.75125)
+    (at -45.83125 63.8075)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DF854)
@@ -3076,7 +3076,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427712)
-    (at -159.1375 121.75125)
+    (at -39.28125 63.8075)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DF1F9)
@@ -3107,7 +3107,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 61427704)
-    (at -165.6875 115.08125)
+    (at -45.83125 57.1375)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DED1A)
@@ -3138,7 +3138,7 @@
   )
 
   (module kbd:D3_SMD_v2 (layer F.Cu) (tedit 5F70BC50) (tstamp 614276F6)
-    (at -198.4375 123.03125)
+    (at -78.58125 65.0875)
     (descr "Resitance 3 pas")
     (tags R)
     (path /614DE412)
