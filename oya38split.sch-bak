@@ -1272,4 +1272,34 @@ Text GLabel 5250 4950 0    50   Input ~ 0
 row3
 Text GLabel 5250 5700 0    50   Input ~ 0
 row4
+Text GLabel 3700 3400 2    50   Input ~ 0
+row0
+Text GLabel 3700 3300 2    50   Input ~ 0
+row1
+Text GLabel 3700 3200 2    50   Input ~ 0
+row2
+Text GLabel 3700 3100 2    50   Input ~ 0
+row3
+Text GLabel 3700 3000 2    50   Input ~ 0
+row4
+Text GLabel 3700 3500 2    50   Input ~ 0
+col0
+Text GLabel 3700 3600 2    50   Input ~ 0
+col1
+Text GLabel 3700 3700 2    50   Input ~ 0
+col2
+Text GLabel 2300 3100 0    50   Input ~ 0
+col3
+Text GLabel 2300 3200 0    50   Input ~ 0
+col4
+Text GLabel 2300 3300 0    50   Input ~ 0
+col5
+Text GLabel 2300 3400 0    50   Input ~ 0
+col6
+Text GLabel 2300 3500 0    50   Input ~ 0
+col7
+Text GLabel 2300 3600 0    50   Input ~ 0
+col8
+Text GLabel 2300 3700 0    50   Input ~ 0
+col9
 $EndSCHEMATC
