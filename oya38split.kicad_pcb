@@ -20217,7 +20217,7 @@
   (segment (start 249.07875 35.56) (end 249.07875 28.92501) (width 0.25) (layer B.Cu) (net 69))
   (segment (start 249.07875 28.92501) (end 82.99374 28.92501) (width 0.25) (layer B.Cu) (net 69))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 61432F63) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -22395,7 +22395,7 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 61432F60) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
