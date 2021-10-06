@@ -455,17 +455,6 @@ F 3 "" H 7975 2325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX45
-U 1 1 6141B38D
-P 8050 5350
-F 0 "MX45" H 8083 5573 60  0000 C CNN
-F 1 "MX-NoLED" H 8083 5499 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 7425 5325 60  0001 C CNN
-F 3 "" H 7425 5325 60  0001 C CNN
-	1    8050 5350
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX37
 U 1 1 6143B1DD
 P 9100 5350
@@ -1302,4 +1291,21 @@ Text GLabel 2300 3600 0    50   Input ~ 0
 col8
 Text GLabel 2300 3700 0    50   Input ~ 0
 col9
+Wire Wire Line
+	7550 5500 7500 5500
+Connection ~ 7550 5500
+Wire Wire Line
+	8050 5500 8000 5500
+Connection ~ 8050 5500
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX45
+U 1 1 6141B38D
+P 8050 5350
+F 0 "MX45" H 8083 5573 60  0000 C CNN
+F 1 "MX-NoLED" H 8083 5499 20  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 7425 5325 60  0001 C CNN
+F 3 "" H 7425 5325 60  0001 C CNN
+	1    8050 5350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
