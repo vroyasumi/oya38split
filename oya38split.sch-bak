@@ -356,17 +356,6 @@ F 3 "" H 9475 5325 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX44
-U 1 1 6141AC97
-P 7550 5350
-F 0 "MX44" H 7583 5573 60  0000 C CNN
-F 1 "MX-NoLED" H 7583 5499 20  0000 C CNN
-F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 6925 5325 60  0001 C CNN
-F 3 "" H 6925 5325 60  0001 C CNN
-	1    7550 5350
-	1    0    0    -1  
-$EndComp
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX33
 U 1 1 61410345
 P 7100 5350
@@ -1306,6 +1295,17 @@ F 1 "MX-NoLED" H 8083 5499 20  0000 C CNN
 F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 7425 5325 60  0001 C CNN
 F 3 "" H 7425 5325 60  0001 C CNN
 	1    8050 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX44
+U 1 1 6141AC97
+P 7550 5350
+F 0 "MX44" H 7583 5573 60  0000 C CNN
+F 1 "MX-NoLED" H 7583 5499 20  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 6925 5325 60  0001 C CNN
+F 3 "" H 6925 5325 60  0001 C CNN
+	1    7550 5350
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

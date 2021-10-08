@@ -20,7 +20,7 @@ U 1 1 613FA054
 P 3000 3150
 F 0 "U1" H 3000 3987 60  0000 C CNN
 F 1 "ProMicro" H 3000 3881 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro" V 4050 650 60  0001 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-ZigZag" V 4050 650 60  0001 C CNN
 F 3 "" V 4050 650 60  0001 C CNN
 	1    3000 3150
 	1    0    0    -1  
