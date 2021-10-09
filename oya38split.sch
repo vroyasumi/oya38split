@@ -1308,4 +1308,59 @@ F 3 "" H 6925 5325 60  0001 C CNN
 	1    7550 5350
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Rotary_Encoder_Switch SW1
+U 1 1 61617C90
+P 9200 6200
+F 0 "SW1" V 9154 6430 50  0000 L CNN
+F 1 "Rotary_Encoder_Switch" V 9245 6430 50  0000 L CNN
+F 2 "Keebio-Parts:RollerEncoder_Panasonic_EVQWGD001" H 9050 6360 50  0001 C CNN
+F 3 "~" H 9200 6460 50  0001 C CNN
+	1    9200 6200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9250 5300 9250 5900
+Wire Wire Line
+	9250 5900 9300 5900
+Connection ~ 9250 5300
+Wire Wire Line
+	9050 5500 9100 5500
+Wire Wire Line
+	9100 5500 9100 5900
+Connection ~ 9050 5500
+Text GLabel 9100 6500 3    50   Input ~ 0
+ENCA
+Text GLabel 9200 6600 3    50   Input ~ 0
+GND
+Text GLabel 9300 6500 3    50   Input ~ 0
+ENCB
+Text GLabel 2300 2600 0    50   Input ~ 0
+ENCA
+Text GLabel 2300 2700 0    50   Input ~ 0
+ENCB
+Text GLabel 2200 2800 0    50   Input ~ 0
+GND
+$Comp
+L power:GND #PWR0101
+U 1 1 6162DCD2
+P 2300 2800
+F 0 "#PWR0101" H 2300 2550 50  0001 C CNN
+F 1 "GND" V 2305 2672 50  0000 R CNN
+F 2 "" H 2300 2800 50  0001 C CNN
+F 3 "" H 2300 2800 50  0001 C CNN
+	1    2300 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 6163BD49
+P 9200 6500
+F 0 "#PWR0102" H 9200 6250 50  0001 C CNN
+F 1 "GND" H 9205 6327 50  0000 C CNN
+F 2 "" H 9200 6500 50  0001 C CNN
+F 3 "" H 9200 6500 50  0001 C CNN
+	1    9200 6500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
